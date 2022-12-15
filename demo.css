@@ -46,8 +46,8 @@ body{
 }
 .countdown div{
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 83px;
+    height: 83px;
     line-height: 100px;
     text-align: center;
     background: #333;
