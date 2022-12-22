@@ -10,6 +10,7 @@ body{
     background-size: 100%;
 }
 .container{
+    background-size: 100%;
     position: absolute;
     top: 80px;
     left: 100px;
