@@ -7,7 +7,7 @@ body{
     background: #000 url(anh-meo-cute-trai-tim.jpg);
     background-attachment: fixed;
     background-blend-mode: hard-light;
-    background-size: auto;
+    background-size: 100%;
 }
 .container{
     position: absolute;
