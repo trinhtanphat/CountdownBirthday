@@ -1,4 +1,4 @@
-var anhyeuem = new Date(2023, 3, 8, 0, 0, 0, 1000).getTime();
+var anhyeuem = new Date(mar 8, 2023 00:00:00).getTime();
 function newYear() {
      var ngayHienTai = new Date().getTime();
      thoigianConLai = anhyeuem - ngayHienTai;
